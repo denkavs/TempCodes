@@ -10,6 +10,7 @@ describe('Patterns ->', function () {
     });
 
     describe('-- Scope chain', function () {
+	it('/new test', function(){ });
         it('/ way 1', function () {
 
             var counterArray = {
